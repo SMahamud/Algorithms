@@ -16,7 +16,13 @@ namespace SortingAlgorithm
 
                 //  SelectionSort selectionSort = new SelectionSort();
 
-                BubbleSort bubbleSort = new BubbleSort();
+                //  BubbleSort bubbleSort = new BubbleSort();
+
+
+                //  Insertion insertion = new Insertion();
+
+                HeapSort heapSort = new HeapSort();
+
                 Console.WriteLine("Hello World!");
             }
         }
